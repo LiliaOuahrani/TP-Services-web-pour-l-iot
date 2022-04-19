@@ -1,0 +1,14 @@
+
+.card {
+
+    margin-top: 1%;
+    margin-left:  38%;
+
+    background-color: cadetblue;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000;
+    box-shadow: 5px 5px 39px 5px #2f4242eb;
+}
+.container_fluid {
+    background-color: #b4b5b7ab;;
+    height: 100%;
+}
